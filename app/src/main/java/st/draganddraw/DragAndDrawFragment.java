@@ -13,11 +13,9 @@ import android.widget.TextView;
  */
 public class DragAndDrawFragment extends Fragment {
 
-
     public DragAndDrawFragment() {
         // Required empty public constructor
     }
-
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
